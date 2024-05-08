@@ -2,8 +2,8 @@
 
 Tools Used :  
   • HTML  
-  • SASS  
-  • JavaScript  
+  • CSS  
+    
   
 
 "# NotificationPage" 
